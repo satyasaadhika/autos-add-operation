@@ -1,4 +1,4 @@
-🚗 Autos Database Project
+# 🚗 Autos Database Project
 
 A simple web-based application for tracking automobile records, built with **PHP**, **MySQL**, and **Bootstrap**. This project allows users to log in, add new automobile records, and view all autos in a responsive, styled table.
 
